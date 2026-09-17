@@ -2,38 +2,38 @@
 
 ## Getting Started
 
-* [Welcome to TerrA](README.md)
+* [Welcome to TerrA](../)
 
 ## 🔵 Model
 
-* [Overview](model/README.md)
+* [Overview](model/)
 
 ## 🟢 Design
 
-* [What is Design Module?](design/README.md)
+* [What is Design Module?](design/)
 * [Test Case](design/testcase.md)
 * [Test Scenario](design/test-scenario.md)
 
 ## 🟣 Automation
 
-* [Overview](automation/README.md)
+* [Overview](automation/)
 
 ## 🟠 Hub
 
-* [Overview](hub/README.md)
+* [Overview](hub/)
 
 ## 🔴 Defect
 
-* [Overview](defect/README.md)
+* [Overview](defect/)
 
 ## 🔷 MDM
 
-* [Overview](mdm/README.md)
+* [Overview](mdm/)
 
 ## 🟡 TRAM
 
-* [Overview](tram/README.md)
+* [Overview](tram/)
 
 ## 🟤 Sipay
 
-* [Overview](sipay/README.md)
+* [Overview](sipay/)
